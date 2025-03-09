@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462539898461",
+    "project_id": "haraj-766ca",
+    "storage_bucket": "haraj-766ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462539898461:android:493b358d2716589bf417b4",
+        "android_client_info": {
+          "package_name": "com.example.untitled22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bQOeuP7pfXh8XOYdVKc4sghm4B1eALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
